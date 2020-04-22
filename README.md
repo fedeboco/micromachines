@@ -1,5 +1,36 @@
 # Micromachines
 
+##### Features:
+* Online multiplayer.
+* Dedicated servers with multiple simultaneous races support.
+* Up to 6 players in each race.
+* Simple IA.
+* Track Editor and track save to file.
+* Power-ups.
+* Race cheating and corner-cutting control.
+* Engine sound effects and background music.
+* Car life.
+* Game video recording using ffmpeg.
+* Race podium at race finish line.
+* Lap and position HUD.
+* Fullscreen mode.
+* 60 FPS support.
+* Car explosion animation and car engine vibration visual effect.
+* Easily customizable sprites.
+
+![]()<img src="https://github.com/fedeboco/micromachines/blob/master/screenshot.jpeg?raw=true">
+
+##### Programming features:
+* Threads.
+* Polymorphism.
+* Sockets.
+* RAII.
+* SDL and Box2D libraries.
+* Event Loops.
+* Custom protocol.
+* ffmpeg mp4 w/ h264 video recording.
+
+# Instalación y compilación
 ## Compilación
 - Instalar CMake https://cmake.org/install/
 - Crear la carpeta `/build`
