@@ -3,6 +3,7 @@
 ##### Features:
 * Online multiplayer.
 * Dedicated servers with multiple simultaneous races support.
+* Match creation: number of players and track selection.
 * Up to 6 players in each race.
 * Simple IA.
 * Track Editor and track save to file.
@@ -10,7 +11,7 @@
 * Race cheating and corner-cutting control.
 * Engine sound effects and background music.
 * Car life.
-* Game video recording using ffmpeg.
+* Integrated game video recording using ffmpeg.
 * Race podium at race finish line.
 * Lap and position HUD.
 * Fullscreen mode.
