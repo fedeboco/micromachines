@@ -8,6 +8,7 @@
 * Simple IA.
 * Track Editor and track save to file.
 * Power-ups.
+* Collisions.
 * Race cheating and corner-cutting control.
 * Engine sound effects and background music.
 * Car life.
